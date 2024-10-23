@@ -1,2 +1,2 @@
-# leanring-python
+# learning-python
 (Basics to Advance)
